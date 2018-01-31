@@ -1,0 +1,10 @@
+#!/bin/tcsh -f
+#
+#  Keaton Coffman
+#  Project01 Script1
+#
+# print headers 
+# get data then pipeline to sort it
+
+cat /user/cse410/Projects/project01.headers
+grep $1 /user/cse410/Projects/project01.data | sort -k11nr -k5n

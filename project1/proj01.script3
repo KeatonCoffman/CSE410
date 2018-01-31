@@ -1,0 +1,12 @@
+#!/bin/tcsh -f
+#
+# Keaton Coffman
+# Project01 Script3
+# 
+# Prints header and uses pipelining to sort and then retrieve data via
+# arguments
+#
+
+cat /user/cse410/Projects/project01.headers
+sort -k11nr -k5n  /user/cse410/Projects/project01.data | grep -m $1 $2
+

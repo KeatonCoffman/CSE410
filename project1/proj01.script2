@@ -1,0 +1,13 @@
+#!/bin/tcsh -f
+#
+# Keaton Coffman
+# Project01 Script2
+# 
+# Uses a foreach loop to loop through arguments
+#   each pass a header and sorted data is printed
+
+foreach fname ($argv[*])
+ cat /user/cse410/Projects/project01.headers
+ grep $fname /user/cse410/Projects/project01.data | sort -k11nr -k5n
+ echo ''
+end

@@ -1,0 +1,555 @@
+
+tick: 0
+
+tick: 1
+New State: 
+Ready State: 
+Running State: 
+Blocked State: 
+
+
+tick: 2
+New State: 
+Ready State: 
+Running State:  1 
+Blocked State: 
+
+tick: 3
+New State: 
+Ready State: 
+Running State:  1 
+Blocked State: 
+
+tick: 4
+New State: 
+Ready State: 
+Running State:  1 
+Blocked State: 
+
+
+tick: 5
+New State: 
+Ready State:  3 
+Running State:  2 
+Blocked State:  1 
+
+tick: 6
+New State: 
+Ready State:  3 
+Running State:  2 
+Blocked State:  1 
+
+
+tick: 7
+New State: 
+Ready State: 
+Running State:  3 
+Blocked State:  2  1 
+
+tick: 8
+New State: 
+Ready State:  4 
+Running State:  3 
+Blocked State:  2  1 
+
+tick: 9
+New State: 
+Ready State:  4 
+Running State:  3 
+Blocked State:  2  1 
+
+tick: 10
+New State: 
+Ready State:  4  2 
+Running State:  3 
+Blocked State:  1 
+
+tick: 11
+New State: 
+Ready State:  4  2 
+Running State:  3 
+Blocked State:  1 
+
+
+tick: 12
+New State: 
+Ready State:  2  1 
+Running State:  4 
+Blocked State:  3 
+
+tick: 13
+New State: 
+Ready State:  2  1 
+Running State:  4 
+Blocked State:  3 
+
+tick: 14
+New State: 
+Ready State:  2  1 
+Running State:  4 
+Blocked State:  3 
+
+tick: 15
+New State: 
+Ready State:  2  1 
+Running State:  4 
+Blocked State:  3 
+
+tick: 16
+New State: 
+Ready State:  2  1 
+Running State: 
+Blocked State:  4  3 
+
+
+tick: 17
+New State: 
+Ready State:  1 
+Running State:  2 
+Blocked State:  4  3 
+
+tick: 18
+New State: 
+Ready State:  1 
+Running State: 
+Blocked State:  4  3  2 
+
+
+tick: 19
+New State: 
+Ready State: 
+Running State:  1 
+Blocked State:  4  3  2 
+
+tick: 20
+New State: 
+Ready State: 
+Running State:  1 
+Blocked State:  4  3  2 
+
+tick: 21
+New State: 
+Ready State:  2 
+Running State:  1 
+Blocked State:  4  3 
+
+
+tick: 22
+New State: 
+Ready State: 
+Running State:  2 
+Blocked State:  4  3  1 
+
+tick: 23
+New State: 
+Ready State:  3 
+Running State:  2 
+Blocked State:  4  1 
+
+
+tick: 24
+New State: 
+Ready State: 
+Running State:  3 
+Blocked State:  4  2  1 
+
+tick: 25
+New State: 
+Ready State: 
+Running State:  3 
+Blocked State:  4  2  1 
+
+tick: 26
+New State: 
+Ready State: 
+Running State:  3 
+Blocked State:  4  2  1 
+
+tick: 27
+New State: 
+Ready State:  2 
+Running State:  3 
+Blocked State:  4  1 
+
+tick: 28
+New State: 
+Ready State:  2 
+Running State:  3 
+Blocked State:  4  1 
+
+PID: 3
+Priority: 2
+Cpu Bursts: 2
+Burst time: 5
+Blocked time: 12
+Arrival time: 5
+Departure time: 28
+Time in new: 0
+Time in ready: 3
+Time in running: 10
+Time in blocked: 13
+Turnaround time: 23
+Normalized turnaround time: 2
+
+tick: 29
+New State: 
+Ready State:  2  1 
+Running State: 
+Blocked State:  4 
+
+
+tick: 30
+New State: 
+Ready State:  1 
+Running State:  2 
+Blocked State:  4 
+
+
+tick: 31
+New State: 
+Ready State: 
+Running State:  1 
+Blocked State:  4  2 
+
+tick: 32
+New State: 
+Ready State: 
+Running State:  1 
+Blocked State:  4  2 
+
+tick: 33
+New State: 
+Ready State: 
+Running State:  1 
+Blocked State:  4  2 
+
+
+tick: 34
+New State: 
+Ready State: 
+Running State:  2 
+Blocked State:  4  1 
+
+tick: 35
+New State: 
+Ready State: 
+Running State:  2 
+Blocked State:  4  1 
+
+tick: 36
+New State: 
+Ready State: 
+Running State: 
+Blocked State:  4  2  1 
+
+tick: 37
+New State: 
+Ready State: 
+Running State: 
+Blocked State:  4  2  1 
+
+tick: 38
+New State: 
+Ready State: 
+Running State: 
+Blocked State:  4  2  1 
+
+
+tick: 39
+New State: 
+Ready State: 
+Running State:  2 
+Blocked State:  4  1 
+
+tick: 40
+New State: 
+Ready State: 
+Running State:  2 
+Blocked State:  4  1 
+
+
+tick: 41
+New State: 
+Ready State: 
+Running State:  1 
+Blocked State:  4  2 
+
+tick: 42
+New State: 
+Ready State: 
+Running State:  1 
+Blocked State:  4  2 
+
+tick: 43
+New State: 
+Ready State: 
+Running State:  1 
+Blocked State:  4  2 
+
+PID: 1
+Priority: 2
+Cpu Bursts: 4
+Burst time: 3
+Blocked time: 8
+Arrival time: 2
+Departure time: 43
+Time in new: 0
+Time in ready: 7
+Time in running: 12
+Time in blocked: 25
+Turnaround time: 41
+Normalized turnaround time: 3
+
+
+
+tick: 44
+New State: 
+Ready State: 
+Running State:  4  2 
+Blocked State: 
+
+tick: 45
+New State: 
+Ready State: 
+Running State:  4  2 
+Blocked State: 
+
+tick: 46
+New State: 
+Ready State: 
+Running State:  4 
+Blocked State:  2 
+
+tick: 47
+New State: 
+Ready State: 
+Running State:  4 
+Blocked State:  2 
+
+tick: 48
+New State: 
+Ready State: 
+Running State: 
+Blocked State:  4  2 
+
+
+tick: 49
+New State: 
+Ready State: 
+Running State:  2 
+Blocked State:  4 
+
+tick: 50
+New State: 
+Ready State: 
+Running State:  2 
+Blocked State:  4 
+
+tick: 51
+New State: 
+Ready State: 
+Running State: 
+Blocked State:  4  2 
+
+tick: 52
+New State: 
+Ready State: 
+Running State: 
+Blocked State:  4  2 
+
+tick: 53
+New State: 
+Ready State: 
+Running State: 
+Blocked State:  4  2 
+
+
+tick: 54
+New State: 
+Ready State: 
+Running State:  2 
+Blocked State:  4 
+
+tick: 55
+New State: 
+Ready State: 
+Running State:  2 
+Blocked State:  4 
+
+PID: 2
+Priority: 1
+Cpu Bursts: 9
+Burst time: 2
+Blocked time: 4
+Arrival time: 5
+Departure time: 55
+Time in new: 0
+Time in ready: 11
+Time in running: 18
+Time in blocked: 33
+Turnaround time: 50
+Normalized turnaround time: 2
+
+tick: 56
+New State: 
+Ready State: 
+Running State: 
+Blocked State:  4 
+
+tick: 57
+New State: 
+Ready State: 
+Running State: 
+Blocked State:  4 
+
+tick: 58
+New State: 
+Ready State: 
+Running State: 
+Blocked State:  4 
+
+tick: 59
+New State: 
+Ready State: 
+Running State: 
+Blocked State:  4 
+
+tick: 60
+New State: 
+Ready State: 
+Running State: 
+Blocked State:  4 
+
+tick: 61
+New State: 
+Ready State: 
+Running State: 
+Blocked State:  4 
+
+tick: 62
+New State: 
+Ready State: 
+Running State: 
+Blocked State:  4 
+
+tick: 63
+New State: 
+Ready State: 
+Running State: 
+Blocked State:  4 
+
+tick: 64
+New State: 
+Ready State: 
+Running State: 
+Blocked State:  4 
+
+tick: 65
+New State: 
+Ready State: 
+Running State: 
+Blocked State:  4 
+
+tick: 66
+New State: 
+Ready State: 
+Running State: 
+Blocked State:  4 
+
+tick: 67
+New State: 
+Ready State: 
+Running State: 
+Blocked State:  4 
+
+tick: 68
+New State: 
+Ready State: 
+Running State: 
+Blocked State:  4 
+
+tick: 69
+New State: 
+Ready State: 
+Running State: 
+Blocked State:  4 
+
+tick: 70
+New State: 
+Ready State: 
+Running State: 
+Blocked State:  4 
+
+tick: 71
+New State: 
+Ready State: 
+Running State: 
+Blocked State:  4 
+
+tick: 72
+New State: 
+Ready State: 
+Running State: 
+Blocked State:  4 
+
+tick: 73
+New State: 
+Ready State: 
+Running State: 
+Blocked State:  4 
+
+tick: 74
+New State: 
+Ready State: 
+Running State: 
+Blocked State:  4 
+
+tick: 75
+New State: 
+Ready State: 
+Running State: 
+Blocked State:  4 
+
+
+tick: 76
+New State: 
+Ready State: 
+Running State:  4 
+Blocked State: 
+
+tick: 77
+New State: 
+Ready State: 
+Running State:  4 
+Blocked State: 
+
+tick: 78
+New State: 
+Ready State: 
+Running State:  4 
+Blocked State: 
+
+tick: 79
+New State: 
+Ready State: 
+Running State:  4 
+Blocked State: 
+
+PID: 4
+Priority: 2
+Cpu Bursts: 3
+Burst time: 4
+Blocked time: 29
+Arrival time: 8
+Departure time: 79
+Time in new: 0
+Time in ready: 4
+Time in running: 12
+Time in blocked: 59
+Turnaround time: 71
+Normalized turnaround time: 5
+New State: 
+Ready State: 
+Running State: 
+Blocked State: 
+Program is ending because all processes have exited
